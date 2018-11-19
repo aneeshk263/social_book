@@ -20,7 +20,7 @@ i)                 Frameworks:            Angular, Node.js, Bootstrap.
 
 ii)               Languages:                TypeScript, HTML, CSS.
 
-iii)              Database:                  MongoDB, MLab(remote MongoDB database).
+iii)              Database:                  MongoDB Atlas (remote MongoDB database).
 
 iv)              Server:                       localhost server, Working on deploying to Amazon web services s3cloud. 
 
