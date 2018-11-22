@@ -33,9 +33,7 @@ ii)               Languages:                TypeScript, HTML, CSS.
 
 iii)              Database:                  MongoDB Atlas (remote MongoDB database).
 
-iv)              Server:                       localhost server, 
-
-                                                Working on deploying to Amazon web service s3cloud. 
+iv)              Server:                       localhost4200 server,(Working on deploying to Amazon web service s3cloud). 
 
 v)               IDE:                            Visual Studio Code.
 
